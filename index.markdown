@@ -17,6 +17,8 @@ The excellent quality level of this workshop has been recognized since its incep
 been regularly published in Springer's Lecture Notes series. MABS 2022 will be hosted at <a href="https://aamas2022-conference.auckland.ac.nz/calls/call-for-workshops/">AAMAS 2022 (21st International Conference on Autonomous Agents and Multiagent Systems)</a>, which will take place in Auckland, New Zealand on May 9-13, 2022.
 </p>
 
+<p><b>The proceedings of MABS 2022 have now been published as part of the Springer Lecture Notes in Computer Science (LNCS) series and can be accessed via <a href="http://link.springer.com/openurl.asp?genre=issue&issn=0302-9743&volume=13743">Springer Link (LNCS 13743)</a></b></p>
+
 <p>CFP: <a href="https://easychair.org/cfp/MABS2022">https://easychair.org/cfp/MABS2022</a></p>
 
 <h2>Important Dates</h2>
