@@ -6,6 +6,8 @@ permalink: /accepted/
 
 The following 11 papers have been accepted for MABS2022. Authors been invited to submit a camera ready version for the proceedings to be published in the Lecture Notes in Computer Science book series by Springer (subject to final review).
 
+<p>The proceedings of MABS 2022 have now been published as part of the Springer Lecture Notes in Computer Science (LNCS) series and can be accessed via <a href="http://link.springer.com/openurl.asp?genre=issue&issn=0302-9743&volume=13743">Springer Link (LNCS 13743)</a></p>
+
 | Authors | Title |
 |-|-|
 | Bruna Leitzke and Diana Adamatti | Land use management using Multi-Agent Based Simulation in a watershed in south of the Brazil |
